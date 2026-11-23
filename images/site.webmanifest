@@ -1,0 +1,21 @@
+{
+  "name": "Walkies Guernsey",
+  "short_name": "Walkies",
+  "start_url": "../",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#FBF4EA",
+  "theme_color": "#FD6905",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
